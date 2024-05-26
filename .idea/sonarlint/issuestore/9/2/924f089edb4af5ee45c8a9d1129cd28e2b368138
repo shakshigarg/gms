@@ -1,0 +1,23 @@
+
+v
+java:S1192"TDefine a constant instead of duplicating this literal "2024-03-03 02:00:00" 4 times.(‘àˆıÿÿÿÿ8ƒ¬ÚÙè1
+v
+java:S1192"TDefine a constant instead of duplicating this literal "2024-03-03 01:00:00" 4 times.(‘àˆıÿÿÿÿ8ƒ¬ÚÙè1
+7
+java:S1220""Move this file to a named package.8ƒ¬ÚÙè1
+_
+java:S1854"=Remove this useless assignment to local variable "gymClass4".(Å´ˆüÿÿÿÿ8…¬ÚÙè1
+_
+java:S1854"=Remove this useless assignment to local variable "gymClass3".(øâèÖÿÿÿÿÿ8…¬ÚÙè1
+_
+java:S1854"=Remove this useless assignment to local variable "gymClass2".(ê—Œùÿÿÿÿ8…¬ÚÙè1
+[
+java:S1854"9Remove this useless assignment to local variable "user1".(©¤ğîÿÿÿÿÿ8ª¹Úè1
+L
+java:S1481"*Remove this unused "user1" local variable.(©¤ğîÿÿÿÿÿ8®¹Úè1
+P
+java:S1481".Remove this unused "gymClass2" local variable.(ê—Œùÿÿÿÿ8†¬ÚÙè1
+P
+java:S1481".Remove this unused "gymClass3" local variable.(øâèÖÿÿÿÿÿ8‡¬ÚÙè1
+P
+java:S1481".Remove this unused "gymClass4" local variable.(Å´ˆüÿÿÿÿ8‡¬ÚÙè1

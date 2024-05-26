@@ -1,0 +1,19 @@
+
+v
+java:S11928"TDefine a constant instead of duplicating this literal "UserId not present!" 3 times.(áÇ•ùÿÿÿÿ8ê…ÔÙè1
+v
+java:S11925"TDefine a constant instead of duplicating this literal "UserId cant be null" 4 times.(ÚµíÙúÿÿÿÿ8ë…ÔÙè1
+_
+java:S2259#"BA "NullPointerException" could be thrown; "user" is nullable here.(€Ëö8®ãâÙè1
+L	java:S106"+Replace this use of System.out by a logger.(Ê“ƒÄøÿÿÿÿ8ğ…ÔÙè1
+L	java:S106"+Replace this use of System.out by a logger.(Ê“ƒÄøÿÿÿÿ8ğ…ÔÙè1
+G	java:S106!"+Replace this use of System.out by a logger.( ŸÆ¯8ñ…ÔÙè1
+L	java:S106%"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¼ˆŞÙè1
+L	java:S106J"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8½ˆŞÙè1
+L	java:S106Q"+Replace this use of System.out by a logger.(Ç€øóùÿÿÿÿ8½ˆŞÙè1
+G	java:S106U"+Replace this use of System.out by a logger.(Êî¾8½ˆŞÙè1
+G	java:S106Z"+Replace this use of System.out by a logger.(¶üà¡8×ÔŞÙè1
+b
+java:S1612^"@Replace this lambda with method reference 'System.out::println'.(¥³œûÿÿÿÿ8´ãâÙè1
+L	java:S106^"+Replace this use of System.out by a logger.(¥³œûÿÿÿÿ8µãâÙè1
+L	java:S106`"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¡ÿãÙè1

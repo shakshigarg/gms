@@ -1,0 +1,9 @@
+
+„
+java:S1319"gThe type of "gymClasses" should be an interface such as "Map" rather than the implementation "HashMap".(ó¥â¥8‰ÕøÕè1
+
+java:S1319E"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¨“á¨øÿÿÿÿ8ÅøøÕè1
+‰
+java:S1319I"gThe type of "gymClasses" should be an interface such as "Map" rather than the implementation "HashMap".(Óê¸Ëùÿÿÿÿ8ÅøøÕè1
+x
+java:S3008"[Rename this field "GYM_ID_GENERATOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¦È—8Ÿ’éÕè1

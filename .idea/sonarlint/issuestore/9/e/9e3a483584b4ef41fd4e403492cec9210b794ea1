@@ -1,0 +1,9 @@
+
+Š
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(í³ËÉ8Š¡æÙè1
+‡
+java:S1319"eThe type of "bookings" should be an interface such as "Map" rather than the implementation "HashMap".(¥ãé¼ıÿÿÿÿ8Š¡æÙè1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¡æÙè1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡æÙè1

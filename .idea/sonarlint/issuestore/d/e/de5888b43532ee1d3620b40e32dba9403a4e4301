@@ -1,0 +1,14 @@
+
+g	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8–ûÖÙè1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹Òì8–ûÖÙè1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹Òì8–ûÖÙè1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹Òì8–ûÖÙè1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹Òì8–ûÖÙè1
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¹Òì8–ûÖÙè1
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(ãÂØÁüÿÿÿÿ8›ûÖÙè1
+L	java:S106("+Replace this use of System.out by a logger.(ˆ¶Åÿşÿÿÿÿ8œûÖÙè1
+L	java:S106+"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8’ôÙè1
+V
+java:S1128
+"4Remove this unused import 'java.security.Timestamp'.(’ïĞ¦üÿÿÿÿ8Â¾ôÙè1

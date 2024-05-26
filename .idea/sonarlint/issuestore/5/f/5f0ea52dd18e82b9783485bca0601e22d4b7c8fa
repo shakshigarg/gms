@@ -1,0 +1,11 @@
+
+o
+java:S1192 "RDefine a constant instead of duplicating this literal "User not present!" 3 times.(æÓ‘œ8ˆ°Â×è1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÈÅÛúÿÿÿÿ8…¯¼×è1
+c
+java:S1126)"AReplace this if-then-else statement by a single return statement.(ÛÜóüÿÿÿÿ8‡¯¼×è1
+M
+java:S1128"+Remove this unused import 'models.Booking'.(Óé³Õøÿÿÿÿ8Ï³åÙè1
+I
+java:S1128",Remove this unused import 'models.Customer'.(©âÓ8Ğ³åÙè1
